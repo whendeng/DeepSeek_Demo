@@ -1,2 +1,2 @@
-# DeepSeek_Demo
-python使用deepseek api
+# openAi版本
+pip install openai==1.6.1
